@@ -3,7 +3,7 @@ Cloud Storage Implemented in Geometry Dash
 
 Video: https://youtu.be/oENqzFJ3TgI
 
-## Linux
+## Linux and Windows
 
 Requirements:
 - Python 3

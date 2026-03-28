@@ -21,6 +21,7 @@ Notes:
 - Uploaded files can be selected with absolute paths, relative paths, or `~/...` home-directory paths on Linux.
 - Now you can relogin from the menu.
 - Now you can download other users files using the level id.
+- The program automatically detects the file type.
 
 # Cool links
 
